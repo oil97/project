@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    
+}
+.header{    
+    display:flex;
+    width:1230px;
+    height:75px;
+    justify-content: center;
+    margin: 0px 105px 0px 105px;
+}
+.header__navlist{
+    list-style: none;
+    display:flex;
+    width: 342px;
+    height: 26px;
+    margin: 25px 402px 24px 0px;
+    justify-content: space-between;
+}
+.header__logo{
+    margin: 19px 24px 19px 50px;
+}
+.header__other{
+    width: 243px;
+    height: 46px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
